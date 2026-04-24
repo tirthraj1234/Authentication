@@ -10,5 +10,4 @@ def password_genrator():
     x = random.sample(combine, length)
     password = "".join(x)
     print(password)
-    print("sakshi.....")
 password_genrator()
